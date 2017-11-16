@@ -11,8 +11,6 @@
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
 ! RegExpVisualizer http://www.regexper.com/
 ! ----- Anti-Adblockers ------------------------------------------------------------------------------------------------------------------- !
-||www.zone-telechargement.ws/uploads/dl.png$image
-||www.zone-telechargement.ws/uploads/ddl.JPG$image
 www.liens-telechargement.com##.warn > strong
 www.liens-telechargement.com##.warnIp
 www.liens-telechargement.com##.wrn_txt
