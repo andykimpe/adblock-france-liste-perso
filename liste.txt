@@ -1,21 +1,21 @@
-! 16/11/2017 à 18:24:53 https://www.liens-telechargement.com/123455601123455603123455610123455615123455617i7y6c3i77j
+[Adblock Plus 2.0]
+! Title: andy kimpe liste perso
+! Author: andy kimpe
+! Version: 1.0
+! Expires: 1 days
+! License: https://github.com/andykimpe/adblock-france-liste-perso/raw/master/LICENSE
+! Homepage: https://github.com/andykimpe/adblock-france-liste-perso
+! Support: https://github.com/andykimpe/adblock-france-liste-perso/issues
+! Contribution: https://github.com/reek/anti-adblock-killer#donate
+! WritingRules: https://adblockplus.org/filters
+! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
+! RegExpVisualizer http://www.regexper.com/
+! ----- Anti-Adblockers ------------------------------------------------------------------------------------------------------------------- !
 ||www.zone-telechargement.ws/uploads/dl.png$image
-
-! 16/11/2017 à 18:25:13 https://www.liens-telechargement.com/123455601123455603123455610123455615123455617i7y6c3i77j
 ||www.zone-telechargement.ws/uploads/ddl.JPG$image
-
-! 16/11/2017 à 18:25:19 https://www.liens-telechargement.com/123455601123455603123455610123455615123455617i7y6c3i77j
 www.liens-telechargement.com##.warn > strong
-
-! 16/11/2017 à 18:25:24 https://www.liens-telechargement.com/123455601123455603123455610123455615123455617i7y6c3i77j
 www.liens-telechargement.com##.warnIp
-
-! 16/11/2017 à 18:25:29 https://www.liens-telechargement.com/123455601123455603123455610123455615123455617i7y6c3i77j
 www.liens-telechargement.com##.wrn_txt
-
-! 16/11/2017 à 18:25:34 https://www.liens-telechargement.com/123455601123455603123455610123455615123455617i7y6c3i77j
 www.liens-telechargement.com##.wrn_txt2
-
-! 16/11/2017 à 18:25:39 https://www.liens-telechargement.com/123455601123455603123455610123455615123455617i7y6c3i77j
 www.liens-telechargement.com##.spo-btn-link.button
 
