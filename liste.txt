@@ -11,9 +11,6 @@
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
 ! RegExpVisualizer http://www.regexper.com/
 ! ----- Anti-Adblockers ------------------------------------------------------------------------------------------------------------------- !
-www.liens-telechargement.com##.warn > strong
-www.liens-telechargement.com##.warnIp
-www.liens-telechargement.com##.wrn_txt
-www.liens-telechargement.com##.wrn_txt2
-www.liens-telechargement.com##.spo-btn-link.button
+www.liens-telechargement.com##center:nth-of-type(2) > center:nth-of-type(2)
+
 
